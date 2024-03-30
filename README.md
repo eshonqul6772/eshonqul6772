@@ -5,13 +5,12 @@
 <br>
     <div id="badges">
         <p> <i> Let's connect! 📫 </i></p>
-        <a href="mailto:supermen0904@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-        <a href="https://www.linkedin.com/in/safarmurod999/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="https://www.facebook.com/profile.php?id=100080957135659" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-        <a href="https://www.instagram.com/safarmurod0904/" target="_blank">
+        <a href="mailto:abdulazizoveshonqul66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+        <a href="https://www.linkedin.com/in/eshonqul-abdulazizov-5b88b6301/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://www.facebook.com/maxmadalivich" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+        <a href="https://www.instagram.com/maxmadalivich_" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-F40F5A?style=flat-square&labelColor=F40F5A&logo=instagram&logoColor=white" alt="Instagram"></a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=Safarmurod999&style=flat-square&color=blue" alt=""/>
 <br>
 </div>
 
@@ -42,5 +41,4 @@ I study at Tashkent University of Information Technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="MaterialUI" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" width="40" height="40" />
 </div>
-# symmetrical-octo-parakeet
-# About_me
+
