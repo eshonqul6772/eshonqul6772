@@ -18,10 +18,10 @@
 
 ### About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a MERN stack web developer and I am passionate about challenges.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Frontend developer and I am passionate about challenges.
 I study at Tashkent University of Information Technologies.
 - 🌱 I’m currently learning new technologies and UI frameworks.
-- 🔭 I’m frontend freelancer at kwork.ru and also Platon Intern developer at RealSoft Academy.
+- 🔭 I am a developer at the Ministry of Justice of the Republic of Uzbekistan
 ---
 
 ### Languages and Tools :
